@@ -48,7 +48,7 @@ export const experience = [
     company: "Tata Steel Pvt Ltd",
     role: "Python Developer & Data Analysis Intern",
     location: "Jamshedpur, Jharkhand",
-    period: "May 2024 — Jul 2024",
+    period: "May 2025 — Jul 2025",
     points: [
       "Engineered Python automation scripts to process manufacturing datasets of 100K+ records, cutting manual processing time by 60%.",
       "Conducted exploratory data analysis on production metrics to identify operational bottlenecks, driving a 15% improvement in resource allocation efficiency.",
