@@ -1,67 +1,156 @@
-# Sachi Prasad — Portfolio
+<div align="center">
 
-A modern, terminal-inspired developer portfolio built for a Computer Science (Cyber Security) undergraduate. Design direction leans into the subject's world — command-line aesthetics, monospace data labels, and a single neon-green accent on a near-black background — instead of a generic template look.
+# 👋 Hi, I'm Sachi Prasad
 
-## Stack
+### Computer Science Undergraduate | Python Developer | AI & Machine Learning Enthusiast
 
-- **Next.js 14** (App Router) + **TypeScript**
-- **Tailwind CSS** for styling, with a custom design-token theme (`tailwind.config.ts`)
-- **Framer Motion** for scroll-reveal and the typed-terminal hero animation
-- **lucide-react** for icons
+A modern, responsive developer portfolio built with **Next.js**, **TypeScript**, and **Tailwind CSS** to showcase my projects, technical skills, certifications, and professional journey.
 
-## Getting started
+<p align="center">
+  <a href="https://sachi-prasad-portfolio-h7aayywbe-sachiprasads-projects.vercel.app">🌐Portfolio</a> •
+  <a href="https://github.com/SachiPrasad">GitHub</a> •
+  <a href="https://linkedin.com/in/sachiprasad">LinkedIn</a> •
+  <a href="mailto:sachiprasad9099@gmail.com">Email</a>
+</p>
+
+</div>
+
+---
+
+# 📖 About
+
+I'm a final-year Computer Science undergraduate passionate about Python development, Artificial Intelligence, Machine Learning, and Data Analytics. I enjoy building practical software solutions, solving real-world problems through technology, and continuously learning modern tools and frameworks.
+
+This portfolio showcases my technical projects, skills, certifications, and achievements while reflecting my commitment to writing clean, efficient, and scalable code.
+
+---
+
+# 🚀 Features
+
+- Modern & Responsive UI
+- Built with Next.js 14 & TypeScript
+- Smooth Animations using Framer Motion
+- Optimized for Performance & SEO
+- Project Showcase
+- Technical Skills Section
+- Education & Certifications
+- Contact Form
+- Mobile-Friendly Design
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+- Python
+- Java
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+
+### Frameworks & Libraries
+
+- Next.js
+- React
+- Tailwind CSS
+- Framer Motion
+
+### Databases
+
+- MySQL
+
+### Tools & Platforms
+
+- Git
+- GitHub
+- VS Code
+- Vercel
+
+---
+
+# 📂 Project Structure
+
+```text
+app/
+components/
+lib/
+public/
+
+next.config.js
+tailwind.config.ts
+package.json
+```
+
+---
+
+# ⚙️ Getting Started
+
+Clone the repository
+
+```bash
+git clone https://github.com/SachiPrasad/SachiPrasad-portfolio.git
+```
+
+Navigate to the project
+
+```bash
+cd SachiPrasad-portfolio
+```
+
+Install dependencies
 
 ```bash
 npm install
+```
+
+Start the development server
+
+```bash
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
+Open your browser and visit
 
-## Project structure
-
-```
-app/
-  layout.tsx        — fonts, metadata, SEO
-  page.tsx           — assembles all sections
-  globals.css         — theme tokens, grid background, focus styles
-components/
-  Nav.tsx             — sticky terminal-style nav
-  Hero.tsx            — typed "whoami" terminal hero (signature element)
-  About.tsx
-  Skills.tsx
-  Projects.tsx
-  Experience.tsx
-  Education.tsx
-  Achievements.tsx
-  Contact.tsx
-  Footer.tsx
-  SectionHeading.tsx  — shared numbered section heading
-lib/
-  data.ts             — all resume content, edit here to update copy
-  utils.ts            — cn() class merge helper
+```text
+http://localhost:3000
 ```
 
-## Editing your content
+---
 
-All resume-driven content (profile, skills, experience, projects, education, achievements) lives in `lib/data.ts`. Update that file and every section re-renders automatically — no need to touch component markup.
+# 🚀 Deployment
 
-To swap the resume PDF link in the nav, drop your file at `public/Sachi_Prasad_Resume.pdf`.
+This portfolio is deployed on **Vercel** for fast and reliable hosting.
 
-## Design notes
+Every push to the `main` branch automatically triggers a new deployment.
 
-- **Palette:** near-black `#0A0E14` background, `#11161F` surface, neon green `#00FF94` accent (terminal/cyber cue), amber `#FFB454` secondary accent for labels.
-- **Type:** Space Grotesk (display), Inter (body), JetBrains Mono (labels, eyebrows, data).
-- **Signature element:** the hero terminal window types out a `whoami` command and prints profile output line by line — a nod to the cyber security focus, used once and not repeated elsewhere so it stays memorable.
-- Respects `prefers-reduced-motion`, has visible focus rings, and is responsive down to mobile.
 
-## Deployment
+# 📈 Future Enhancements
 
-Deploy directly to Vercel:
+- Project Filtering
+- Blog Section
+- Visitor Analytics Dashboard
+- Light/Dark Theme Toggle
+- Interactive Resume
+- Admin Dashboard for Content Management
 
-```bash
-npm run build
-vercel deploy
-```
+---
 
-Or connect the GitHub repo in the Vercel dashboard for automatic deploys on push.
+# 🤝 Let's Connect
+
+- 🌐 Portfolio: https://sachi-prasad-portfolio-h7aayywbe-sachiprasads-projects.vercel.app
+- 💼 LinkedIn: https://linkedin.com/in/sachiprasad
+- 📧 Email: sachiprasad9099@gmail.com
+- 🐙 GitHub: https://github.com/SachiPrasad
+
+---
+
+<div align="center">
+
+### ⭐ If you like this project, consider giving it a star!
+
+Designed & Developed with ❤️ by **Sachi Prasad**
+
+</div>
+

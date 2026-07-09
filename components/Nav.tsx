@@ -45,7 +45,7 @@ export default function Nav() {
           ))}
         </ul>
         <a
-          href="/Sachi_Prasad_Resume.pdf"
+          href="/SachiPRes(1).pdf"
           className="font-mono text-xs border border-line px-3 py-1.5 rounded hover:border-accent hover:text-accent transition-colors"
         >
           ./resume.pdf
